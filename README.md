@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-Depository for assignment
